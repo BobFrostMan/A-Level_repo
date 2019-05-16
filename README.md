@@ -30,8 +30,10 @@
 git clone <ссылка с github>
 ```
 ![git clone](https://github.com/BobFrostMan/A-Level_repo/blob/master/resources/4_git_clone.jpg)
+
 6. В папке с локальным репозиторием необходимо создать новый проект используя intelij idea.
 ![open project](https://github.com/BobFrostMan/A-Level_repo/blob/master/resources/5_open_project.jpg)
+
 7. В корне проекта необходимо создать файл с именем **.gitignore**, как показано на скриншоте:
 ![create gitignore](https://github.com/BobFrostMan/A-Level_repo/blob/master/resources/6_create_gitignore.jpg)
 Этот файл как правило содержит имена или расширения тех файлов которые будут игнорироваться git-ом
